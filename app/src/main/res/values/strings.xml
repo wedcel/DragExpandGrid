@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DragExpandGrid</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <color name="white">#ffffff</color>
+    <color name="item_bg">#e5e5e5</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_half">#23000000</color>
+    <color name="gap_line">#e2e2e2</color>
+    <color name="color_333333">#333333</color>
+    <color name="color_777572">#777572</color>
+</resources>
