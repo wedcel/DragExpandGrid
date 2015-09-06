@@ -31,10 +31,15 @@ activity_main.xml中有示例用法
         android:layout_height="wrap_content"
         />
 
+#Android Arsenal
+
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-DragExpandGrid-green.svg?style=flat)](https://android-arsenal.com/details/1/2396)
 
 #Other
 
 欢迎访问我的博客：[http://wedcel.com](http://wedcel.com)
+
+
 
 #License
 
