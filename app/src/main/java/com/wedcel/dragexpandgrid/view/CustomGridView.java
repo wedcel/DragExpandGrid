@@ -71,9 +71,6 @@ public class CustomGridView extends LinearLayout {
 	 * 描述: 初始化<p>
 	 * 参数: @param context<p>
 	 * 返回: void<p>
-	 * 异常 <p>
-	 * 作者: 梅雄新 meixx@500wan.com<p>
-	 * 时间: 2014年11月15日 上午10:45:56<p>
 	 */
 	private void initView(Context context) {
 		this.mContext = context;
@@ -112,9 +109,6 @@ public class CustomGridView extends LinearLayout {
 	 * 描述: 刷新UI<p>
 	 * 参数: @param needAnim<p>
 	 * 返回: void<p>
-	 * 异常 <p>
-	 * 作者: 梅雄新 meixx@500wan.com<p>
-	 * 时间: 2014年11月15日 上午10:46:19<p>
 	 */
 	public void notifyDataSetChange(boolean needAnim) {
 		removeAllViews();
@@ -173,9 +167,6 @@ public class CustomGridView extends LinearLayout {
 	 * 参数: @param start
 	 * 参数: @param end<p>
 	 * 返回: void<p>
-	 * 异常 <p>
-	 * 作者: 梅雄新 meixx@500wan.com<p>
-	 * 时间: 2014年11月15日 上午10:46:35<p>
 	 */
 	public void createHeightAnimator(final View view, int start, int end) {
 		ValueAnimator animator = ValueAnimator.ofInt(start, end);
@@ -199,9 +190,6 @@ public class CustomGridView extends LinearLayout {
 	 * 描述: TODO<p>
 	 * 参数: @param llBtm<p>
 	 * 返回: void<p>
-	 * 异常 <p>
-	 * 作者: 梅雄新 meixx@500wan.com<p>
-	 * 时间: 2014年11月15日 上午10:46:40<p>
 	 */
 	public void setParentView(LinearLayout llBtm) {
 		this.mParentView = llBtm;
