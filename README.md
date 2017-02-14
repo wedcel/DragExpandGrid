@@ -11,8 +11,6 @@
 数据的处理和显示使用Bean。
 
 
-来自于[500彩票Andorid客户端](http://500.com )首页功能。
-
 
 
 # Preview
